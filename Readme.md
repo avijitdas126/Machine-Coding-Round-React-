@@ -20,7 +20,7 @@ In this assignment, you will implement three tasks based on the provided Figma d
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/avijitdas126/Machine-Coding-Round-React-.git
-   cd Machine-Coding-Round-React
+   cd Machine-Coding-Round-React-
    ```
 
 2. **Install dependencies:**
