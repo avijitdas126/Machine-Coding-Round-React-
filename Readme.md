@@ -72,5 +72,5 @@ Technology:React.js
 
 # Preview of my website on online
 
-<a href="">Check my Assignment</a>
+<a href="https://assignreact.netlify.app/">Check my Assignment</a>
 
