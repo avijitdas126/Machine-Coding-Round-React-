@@ -13,14 +13,14 @@ In this assignment, you will implement three tasks based on the provided Figma d
 3. **Data Table**
    - Create a data table to display and manage tabular data.
 
-[Link to Figma Design](#) *(replace # with the actual Figma link)*
+[Link to Figma Design](https://www.figma.com/design/Q6WXf1sbhMReexH4wuzeod/MasterJi-assignments?node-id=15-265&t=wgcIGUj8cYmfyyYf-0) 
 
 ### Getting Started
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/masterji.git
-   cd masterji
+   git clone https://github.com/avijitdas126/Machine-Coding-Round-React-.git
+   cd Machine-Coding-Round-React
    ```
 
 2. **Install dependencies:**
