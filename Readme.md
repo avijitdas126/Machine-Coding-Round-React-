@@ -39,9 +39,6 @@ In this assignment, you will implement three tasks based on the provided Figma d
 - HTML5 Drag and Drop API
 - CSS for styling
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
