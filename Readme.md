@@ -25,7 +25,7 @@ In this assignment, you will implement three tasks based on the provided Figma d
 
 2. **Install dependencies:**
    ```bash
-   npm install
+   npm run dev
    ```
 
 3. **Run the application:**
